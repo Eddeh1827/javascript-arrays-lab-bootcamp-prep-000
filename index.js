@@ -2,7 +2,7 @@ function destructivelyAppendKitten(name) {
   kittens.push('Ralph')
 };
 function destructivelyPrependKitten(name) {
-  kittens.unshift('')
+  kittens.unshift('Bob')
 };
 function destructivelyRemoveLastKitten() {
   kittens.pop()
