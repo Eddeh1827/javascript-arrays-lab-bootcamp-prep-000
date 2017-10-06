@@ -1,3 +1,3 @@
 function destructivelyAppendKitten(name) {
-  kittens.push('Honey')
+  kittens.push('Ralph')
 };
